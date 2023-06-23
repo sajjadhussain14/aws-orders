@@ -2,7 +2,7 @@
     <cfoutput>       
         <footer class="row">
             <div class="col-12 bg-secondary text-light text-center pt-3 pb-3">
-                Copyright © 2022 Celerant
+                Copyright © 2022 Sajjad Hussain
             </div>
         </footer>
     </cfoutput>

@@ -30,12 +30,13 @@
             application.secureurl=req_url & currentDirectory  
 
 
-
-
-
+            // AWS API CREDENTIALS 
+            
             application.accessKeyId = ""; 
             application.secretAccessKey = "";
+
             application.refresh_token=''
+
             application.client_id = ""; 
             application.client_secret = ""; 
 
